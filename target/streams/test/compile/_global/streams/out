@@ -1,0 +1,8 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/akka_file_read_write/src/test/scala/TestingReadWrite.scala:21:92: class java.io.File is not a value[0m
+[0m[[0m[31merror[0m] [0m[0m    it should "give the name of directories/files"in{FolderScannerActor.getFilesFromFolder(File)}[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/akka_file_read_write/src/test/scala/TestingReadWrite.scala:18:16: method without a parameter list overrides a method with a single empty one[0m
+[0m[[0m[33mwarn[0m] [0m[0m  override def afterAll={[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/akka_file_read_write/src/main/scala/com/actor/FolderScannerActor.scala:25:21: non-variable type argument String in type pattern List[String] (the underlying of List[String]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    case wordsList: List[String] => {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/akka_file_read_write/src/main/scala/com/actor/FolderScannerActor.scala:28:13: multiarg infix syntax looks like a tuple and will be deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0m      words insertAll(words.size, wordsList)[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
